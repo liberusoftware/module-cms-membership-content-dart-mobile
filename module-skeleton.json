@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-membership-content-dart-mobile",
+  "capabilityKey": "planned:cms:membership-content",
+  "presentation": "dart-mobile",
+  "package": "module_cms_membership_content_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/cms/nextjs/membership-content.md",
+  "presentationPlan": "projects/cms/features/membership-content.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
